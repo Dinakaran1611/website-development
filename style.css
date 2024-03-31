@@ -154,7 +154,7 @@ header {
     font-family: 'Times New Roman', Times, serif;
     background-color: #040446;
     line-height: 1.2;
-    padding: 30px 40px;
+    padding: 40px 40px;
   }
   .sugu {
     color: #fff;
@@ -178,7 +178,7 @@ header {
   }
   .text-container {
     padding-bottom: 40px;
-    padding-top: 20px;
+    padding-top: 5px;
     background-color: #040446;
     display: flex;
     justify-content: center;
