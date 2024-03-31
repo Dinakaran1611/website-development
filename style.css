@@ -38,11 +38,13 @@ html{
 }
     
 header {
+  position: fixed;
   background-color: white;
   border-bottom: 1px solid #ccc;
   align-content: center;
   overflow: hidden;
   height: 90px;  
+  width: 100%;
   }
   
 .container {
