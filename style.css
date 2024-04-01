@@ -444,73 +444,15 @@ video {
 }
 .site-footer {
   background-color: #26272b;
-  padding: 45px 0 20px;
-  font-size: 15px;
-  line-height: 24px;
-  color: #737373;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
-  }
-  .site-footer h6 {
-  color: #fff;
-  font-size: 16px;
-  text-transform: uppercase;
-  margin-top: 5px;
-  letter-spacing: 2px;
-  }
-  .footer-links a:hover {
-  color: #fff;
-  text-decoration: none;
-  }
-  .footer-links {
-  padding-left: 0;
-  list-style: none;
-  }
-  .footer-links li {
-  display: block;
-  }
-  .footer-links a {
-  color: #737373;
-  }
-  .footer-links a:active,
-  .footer-links a:focus,
-  .footer-links a:hover {
-  color: #fff;
-  text-decoration: none;
-  }
-  .site-footer .social-icons {
-  text-align: right;
-  }
-  .copyright-text {
-  margin: 0;
-  }
-  @media (max-width: 991px) {
-  .site-footer [class^="col-"] {
-  margin-bottom: 30px;
-  }
-  }
-  @media (max-width: 767px) {
-  .site-footer {
-  padding-bottom: 0;
-  }
-  .site-footer .copyright-text,
-  .site-footer .social-icons {
-  text-align: center;
-  }
+  padding-bottom: 20px;
+  color: #ffffff;
   }
   .social-icons {
-  padding-left: 0;
+  width: 100%;
+  margin-left: 28%;
   margin-bottom: 0;
   list-style: none;
   }
-  .logo{
-  color:#eb6857;
-  }
- .social-icons {
-  padding-top: 10px;
-  padding-left: 30px;
-  padding-right: 30px;
-} 
-
 .social-icons img{
     margin-left: 40px;
     width: 40px;
@@ -524,33 +466,29 @@ video {
   box-shadow: none;
 }
 .abt {
-  font-size: 20px;
-  font-weight: 500;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 25px;
+  font-weight: 400;
 }
 .abt h6{
-  margin-left: 30px;
+  margin-left: 25%;
 }
-.abt p{
-  padding-left: 30px;
-  top: 0;
-}
-.lin {
-  font-size: 20px;
-  font-weight: 500;
-}
-.lin h6{
-  margin-top: 40px;
-  padding-top: 10px;
-  margin-left: 30px;
-  padding-bottom: 0;
-}
-.lin a{
-  padding-top: 0;
-  padding-left: 10px;
-  padding-right: 10px;
+.asus {
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  width: 100%;
 }
 .cp{
-  padding-left: 110px;
+  width: 100%;
+  font-size: 17px;
+}
+.cp p{
+  font-weight: 400;
+  margin-left: 37%;
+  margin-bottom: 40px;
 }
 
 
